@@ -1,3 +1,18 @@
+- userid: whitebird08
+  website: 
+  student: true
+  session: fall 2014
+  name: Ryan Bird
+  employed: false
+  github: whitebird08
+  linkedin: http://www.linkedin.com/pub/ryan-bird/a9/599/12a/
+  twitter: https://twitter.com/whitebird08
+  email: ryan01bird@gmail.com
+  phone: 720-352-2328
+  city: Boulder
+  state: CO
+  postal: 80301
+  resume:
 - userid: mywoolf
   website: http://www.mwoolf-webdev.com
   student: true
